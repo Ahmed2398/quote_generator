@@ -1,0 +1,37 @@
+.head{
+    font-size: 80px;
+    text-transform: uppercase;
+    text-align: center;
+    color: #0a53be;
+    font-family: Impact;
+    font-width: 900;
+    margin: 10px auto;
+
+}
+p{
+    font-size:32px;
+    color: #000;
+    text-align: center;
+    font-family: Impact;
+    margin: 20px auto;
+}
+.btn{
+   font-size: 32px;
+    padding: 20px 90px;
+}
+.btn:hover{
+    background-color: green;
+}
+
+#quoteOutput{
+    text-align: center;
+    color: #6f42c1;
+    font-size: 16px;
+    line-height: 1.5;
+}
+#authorOutput{
+    text-align: center;
+   color: #5c636a;
+    font-size: 24px;
+    font-weight: 600;
+}
